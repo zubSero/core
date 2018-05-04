@@ -1,0 +1,8 @@
+{
+  "lerna": "2.11.0",
+  "packages": [
+    "dist/@ngx-translate/core",
+    "dist/@ngx-translate/http-loader"
+  ],
+  "version": "0.0.0"
+}
